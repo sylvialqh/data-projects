@@ -29,6 +29,11 @@ Document the Test of Design and Operating Effectiveness for change management co
 Walkthrough CorpLaw's Change Managment ITGC. Fill in the Excel book see <link>.
 A one-slide summary Controls Testing Summary Presentation.
 
+### Tools & Skills
+- Risk Assessment
+- Test of Design and Operating Effectiveness documentation
+
+
 ## 2. KPMG AU Data Analytics Job Simulation on Forage - March 2024
 ### Overview
 Focused on advising Sprocket Central Pty Ltd, an organization that specializes in high quality bikes and cycling accessories sales, on customer targeting by analysing its customer and transactions data.
@@ -49,17 +54,19 @@ Identify high value customers to target from the new customer list based on anal
 
 **Key Solution : RFM Analysis** 
 
-Assessed data quality and completeness in preparation for analysis
-Analysed data to target high-value customers based on demographics and attributes
-Developed dashboards to communicate findings with visuals
-
 3. Data Visualisation and Presentation:
 Develop a dashboard to present key findings of analysis to the client at the next meeting.
 
 **Demo:** 
-![dashboard-kpmg](data-projects/KPMG Data Analytics Virtual Internship/KPMG Virtual Intern Program Dashboard.png)
+![dashboard-kpmg]("KPMG Data Analytics Virtual Internship/KPMG Virtual Intern Program Dashboard.png")
 **Link to Dashboard:** https://public.tableau.com/views/KPMGDataAnalyticsvirtualIntern/Overview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link 
 
+### Tools & Skills
+- Jupyter Notebook
+- Excel (Pivot Table)
+- Customer Segmentation
+- RFM Analysis
+- Tableau
 
 ## 3. Analysis of vaccination program (Capstone) - May 2022
 > **Link to Shiny app:** https://dcusyd.shinyapps.io/covidApp/
@@ -73,8 +80,9 @@ Aims to investigate factors that affected the implementation of the global COVID
 - Estimates of VRI done by Logistic and Asymptotic Regression Model
 - Measure importance of socio-economic, demographics, health factors by Random forest (Ranked by Conditional Permutation Importance)
 #### Demo
-![dashboard](Screenshots/data.png)
-### Tools & Languages & Skills
+![dashboard]("Data Capstone 2022/data.png")
+
+### Tools & Skills
 - R & Python
 - Excel
 - Machine Learning
