@@ -58,7 +58,7 @@ Identify high value customers to target from the new customer list based on anal
 Develop a dashboard to present key findings of analysis to the client at the next meeting.
 
 **Demo:** 
-![dashboard-kpmg]("KPMG Data Analytics Virtual Internship/KPMG Virtual Intern Program Dashboard.png")
+![dashboard-kpmg]("KPMG%20Data%20Analytics%20Virtual%20Internship/KPMG%20Virtual%20Intern%20Program%20Dashboard.png")
 **Link to Dashboard:** https://public.tableau.com/views/KPMGDataAnalyticsvirtualIntern/Overview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link 
 
 ### Tools & Skills
@@ -80,7 +80,7 @@ Aims to investigate factors that affected the implementation of the global COVID
 - Estimates of VRI done by Logistic and Asymptotic Regression Model
 - Measure importance of socio-economic, demographics, health factors by Random forest (Ranked by Conditional Permutation Importance)
 #### Demo
-![dashboard]("Data Capstone 2022/data.png")
+![dashboard]("Data%20Capstone%202022/data.png")
 
 ### Tools & Skills
 - R & Python
