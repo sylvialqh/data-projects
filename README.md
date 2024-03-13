@@ -1,12 +1,12 @@
 # data-projects
 My featured data projects.
-* [Data Projects](.#data-projects)
-  * [PwC US Cyber Security Consulting Virtual Job Simulation](.#pwc-us-cyber-security-consulting-virtual-job-simulation)
-  * [KPMG AU Data Analytics Virtual Job Simulation](.#kpmg-au-data-analytics-virtual-job-simulation)
-  * [Analysis of vaccination program (Capstone)](.#analysis-of-vaccination-program)
+* [Data Projects](#data-projects)
+  * [PwC US Cyber Security Consulting Virtual Job Simulation](#pwc-us-cyber-security-consulting-job-simulation-on-forage)
+  * [KPMG AU Data Analytics Virtual Job Simulation](#kpmg-au-data-analytics-job-simulation-on-forage)
+  * [Analysis of vaccination program (Capstone)](#analysis-of-vaccination-program)
 
 # Data Projects
-## 1. PwC US Cyber Security Consulting Job Simulation on Forage 
+## PWC US Cyber Security Consulting Job Simulation on Forage 
 March 2024
 
 ### Overview
@@ -41,7 +41,7 @@ A one-slide summary Controls Testing Summary Presentation.
 - Test of Design and Operating Effectiveness documentation
 
 
-## 2. KPMG AU Data Analytics Job Simulation on Forage
+## KPMG AU Data Analytics Job Simulation on Forage
 March 2024
 
 ### Overview
@@ -77,7 +77,7 @@ Develop a dashboard to present key findings of analysis to the client at the nex
 - RFM Analysis
 - Tableau
 
-## 3. Analysis of vaccination program
+## Analysis of vaccination program
 May 2022
 > **Link to Shiny app:** https://dcusyd.shinyapps.io/covidApp/
 > 
