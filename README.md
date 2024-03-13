@@ -1,7 +1,14 @@
 # data-projects
 My featured data projects.
+* [Data Projects](./Readme.md#data-projects)
+  * [PwC US Cyber Security Consulting Virtual Job Simulation](./Readme.md#pwc-us-cyber-security-consulting-virtual-job-simulation)
+  * [KPMG AU Data Analytics Virtual Job Simulation](./Readme.md#kpmg-au-data-analytics-virtual-job-simulation)
+  * [Analysis of vaccination program (Capstone)](./Readme.md#analysis-of-vaccination-program)
 
-## 1. PwC US Cyber Security Consulting Job Simulation on Forage - March 2024
+# Data Projects
+## 1. PwC US Cyber Security Consulting Job Simulation on Forage 
+March 2024
+
 ### Overview
 Conducted IT risk assessments and proposed control solutions for a MedTech Industries's IPO preparation.
 (MedTech Industries is a non-profit startup.)
@@ -34,7 +41,9 @@ A one-slide summary Controls Testing Summary Presentation.
 - Test of Design and Operating Effectiveness documentation
 
 
-## 2. KPMG AU Data Analytics Job Simulation on Forage - March 2024
+## 2. KPMG AU Data Analytics Job Simulation on Forage
+March 2024
+
 ### Overview
 Focused on advising Sprocket Central Pty Ltd, an organization that specializes in high quality bikes and cycling accessories sales, on customer targeting by analysing its customer and transactions data.
 
@@ -68,7 +77,8 @@ Develop a dashboard to present key findings of analysis to the client at the nex
 - RFM Analysis
 - Tableau
 
-## 3. Analysis of vaccination program (Capstone) - May 2022
+## 3. Analysis of vaccination program
+May 2022
 > **Link to Shiny app:** https://dcusyd.shinyapps.io/covidApp/
 > 
 > FYI. It takes 1-2 minutes to load the page.
