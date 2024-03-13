@@ -1,9 +1,9 @@
 # data-projects
 My featured data projects.
-* [Data Projects](./Readme.md#data-projects)
-  * [PwC US Cyber Security Consulting Virtual Job Simulation](./Readme.md#pwc-us-cyber-security-consulting-virtual-job-simulation)
-  * [KPMG AU Data Analytics Virtual Job Simulation](./Readme.md#kpmg-au-data-analytics-virtual-job-simulation)
-  * [Analysis of vaccination program (Capstone)](./Readme.md#analysis-of-vaccination-program)
+* [Data Projects](.#data-projects)
+  * [PwC US Cyber Security Consulting Virtual Job Simulation](.#pwc-us-cyber-security-consulting-virtual-job-simulation)
+  * [KPMG AU Data Analytics Virtual Job Simulation](.#kpmg-au-data-analytics-virtual-job-simulation)
+  * [Analysis of vaccination program (Capstone)](.#analysis-of-vaccination-program)
 
 # Data Projects
 ## 1. PwC US Cyber Security Consulting Job Simulation on Forage 
